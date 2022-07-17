@@ -64,4 +64,4 @@ The last query returns the top performing Sales representative for the different
 Insight<br>
 - Organic search is the first biggest contribution in leads and Paid search is the second biggest contributor to lead generation after 'organic search', followed by 'social' and other publicities. 
 - Almost half of the closed deals are cat (cooperation-focused), followed by eagle (relationship-focused), wolf (accuracy-focused) and shark (result-focused) with the lowest conversion rate of 3%.
-- Sales performance could be improved by matching Sales Representatives with leads based on behaviour profile and conducting a review of Sales Representatives’ skill and equip them with the right sales strategies.
+- Sales performance could be improved by matching Sales Representatives with leads based on behaviour profile and conducting a review of Sales Representatives’ skill and equip them with the right sales strategies.
